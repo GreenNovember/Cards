@@ -1,0 +1,27 @@
+c:\users\игорь\documents\visual studio 2013\Projects\cards\cards\bin\Debug\cards.exe.config
+c:\users\игорь\documents\visual studio 2013\Projects\cards\cards\bin\Debug\cards.exe
+c:\users\игорь\documents\visual studio 2013\Projects\cards\cards\bin\Debug\cards.pdb
+c:\users\игорь\documents\visual studio 2013\Projects\cards\cards\obj\Debug\cards.Form1.resources
+c:\users\игорь\documents\visual studio 2013\Projects\cards\cards\obj\Debug\cards.Properties.Resources.resources
+c:\users\игорь\documents\visual studio 2013\Projects\cards\cards\obj\Debug\cards.csproj.GenerateResource.Cache
+c:\users\игорь\documents\visual studio 2013\Projects\cards\cards\obj\Debug\cards.exe
+c:\users\игорь\documents\visual studio 2013\Projects\cards\cards\obj\Debug\cards.pdb
+c:\users\игорь\documents\visual studio 2013\Projects\cards\cards\obj\Debug\cards.csprojResolveAssemblyReference.cache
+C:\Users\andrey1\Documents\Visual Studio 2012\Projects\cards\cards\bin\Debug\cards.exe.config
+C:\Users\andrey1\Documents\Visual Studio 2012\Projects\cards\cards\obj\Debug\cards.exe
+C:\Users\andrey1\Documents\Visual Studio 2012\Projects\cards\cards\obj\Debug\cards.pdb
+C:\Users\andrey1\Documents\Visual Studio 2012\Projects\cards\cards\bin\Debug\cards.exe
+C:\Users\andrey1\Documents\Visual Studio 2012\Projects\cards\cards\bin\Debug\cards.pdb
+C:\Users\andrey1\Documents\Visual Studio 2012\Projects\cards\cards\obj\Debug\cards.csprojResolveAssemblyReference.cache
+C:\Users\andrey1\Documents\Visual Studio 2012\Projects\cards\cards\obj\Debug\cards.Form1.resources
+C:\Users\andrey1\Documents\Visual Studio 2012\Projects\cards\cards\obj\Debug\cards.Properties.Resources.resources
+C:\Users\andrey1\Documents\Visual Studio 2012\Projects\cards\cards\obj\Debug\cards.csproj.GenerateResource.Cache
+C:\Users\November\Desktop\cards\cards\bin\Debug\cards.exe.config
+C:\Users\November\Desktop\cards\cards\obj\Debug\cards.exe
+C:\Users\November\Desktop\cards\cards\obj\Debug\cards.pdb
+C:\Users\November\Desktop\cards\cards\bin\Debug\cards.exe
+C:\Users\November\Desktop\cards\cards\bin\Debug\cards.pdb
+C:\Users\November\Desktop\cards\cards\obj\Debug\cards.csprojResolveAssemblyReference.cache
+C:\Users\November\Desktop\cards\cards\obj\Debug\cards.Form1.resources
+C:\Users\November\Desktop\cards\cards\obj\Debug\cards.Properties.Resources.resources
+C:\Users\November\Desktop\cards\cards\obj\Debug\cards.csproj.GenerateResource.Cache
